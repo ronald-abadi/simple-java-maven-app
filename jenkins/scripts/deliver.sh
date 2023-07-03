@@ -1,5 +1,13 @@
 #!/usr/bin/env bash
 
+echo '------------------------------------------------------------'
+echo 'DBS Foundation Coding Camp 2023 with Dicoding'
+echo 'Belajar Implementasi CI/CD'
+echo 'Deploy Stage, running deliver.sh'
+echo 'submission-cicd-pipeline-rabadi-java'
+echo 'Run by Ronald Mulyono Abadi'
+echo '------------------------------------------------------------'
+
 echo 'The following Maven command installs your Maven-built Java application'
 echo 'into the local Maven repository, which will ultimately be stored in'
 echo 'Jenkins''s local Maven repository (and the "maven-repository" Docker data'
